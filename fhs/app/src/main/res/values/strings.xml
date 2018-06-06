@@ -1,7 +1,0 @@
-<resources>
-  <string name="app_name">FHS</string>
-  <string name="ok">OK</string>
-  <string name="change_setting">change setting</string>
-  <string name="button_clear_signature">Clear</string>
-  <string name="button_save_signature">Save</string>
-</resources>
